@@ -12,4 +12,7 @@ public class Test {
         System.out.println("hello world");
 
     }
+    public void add(){
+
+    }
 }
